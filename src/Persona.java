@@ -14,6 +14,7 @@ public class Persona {
    private String nombre;
    private String direccion;
 
+   
     public int getCodigo() {
         return codigo;
     }
