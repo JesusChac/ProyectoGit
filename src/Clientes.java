@@ -8,6 +8,10 @@
  *
  * @author Jeremy
  */
-public class Persona {
+public class Clientes {
+
+    public Clientes() {
+        
+    }
     
 }

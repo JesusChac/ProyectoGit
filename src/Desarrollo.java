@@ -8,6 +8,6 @@
  *
  * @author Jeremy
  */
-public class Persona {
+public class Desarrollo {
     
 }
